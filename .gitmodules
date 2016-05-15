@@ -1,3 +1,3 @@
 [submodule "deps/dpdk"]
 	path = deps/dpdk
-	url = https://github.com/mshahbaz/dpdk.git
+	url = https://github.com/P4-vSwitch/dpdk.git
